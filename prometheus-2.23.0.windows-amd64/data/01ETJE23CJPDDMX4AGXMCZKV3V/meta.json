@@ -1,0 +1,17 @@
+{
+	"ulid": "01ETJE23CJPDDMX4AGXMCZKV3V",
+	"minTime": 1609070400000,
+	"maxTime": 1609077600000,
+	"stats": {
+		"numSamples": 732,
+		"numSeries": 352,
+		"numChunks": 352
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01ETJE23CJPDDMX4AGXMCZKV3V"
+		]
+	},
+	"version": 1
+}
